@@ -1,0 +1,6 @@
+./results
+
+./results/*
+./results.*
+./results-err-2.csv
+./results*.*
